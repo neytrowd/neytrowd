@@ -62,8 +62,7 @@
     <img alt="Neytrowd github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neytrowd&theme=github_dark" />
 </p>
 
-| <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=neytrowd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> |
-| ------------- | ------------- |
+<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=neytrowd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
